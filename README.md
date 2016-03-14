@@ -1,5 +1,9 @@
 # Notas para la Entrevista alumnos Andrés Bello sobre Estudios de Informatica
 
+## Véase
+
+* [Despliegue](http://crguezl.github.io/entrevista-andres-bello/)
+
 ## Preguntas que deseamos plantear a ambos entrevistados
 
 * Resulta evidente que los equipos informáticos de hoy en día son muy diferentes a aquellos primeras computadoras personales de finales de los setenta o principios de los ochenta. ¿Ha notado usted una evolución parecida en el hardware de los ordenadores con los que ha trabajado?
