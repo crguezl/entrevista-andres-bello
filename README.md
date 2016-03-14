@@ -2,7 +2,7 @@
 
 ## Véase
 
-* [Despliegue](http://crguezl.github.io/entrevista-andres-bello/)
+* [Despliegue](http://crguezl.github.io/entrevista-andres-bello/_book/)
 
 ## Preguntas que deseamos plantear a ambos entrevistados
 
