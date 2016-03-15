@@ -62,7 +62,9 @@
 
 * ¿Qué opina de las iniciativas de enseñar programación y robótica en Primaria?
 
-   * Es el momento de empezar. 
+   * Es el momento de empezar: 
+   
+     *A diferencia de lo que sucede en España, en Reino Unido los niños se acercan por primera vez a la programación con cinco años. A los 11, se les empieza a instruir en el uso de, al menos, dos lenguajes de programación. El objetivo no es hacer de ellos brillantes ingenieros informáticos, sino que entiendan cómo se crea el mundo que les ha tocado vivir, el de la revolución digital.* [El Pais](http://economia.elpais.com/economia/2015/12/11/actualidad/1449864531_685393.html)
    * La forma en la que se aborda haciendo uso de un ordenador la resolución de problemas.  
    * [Computer Science Unplugged](http://csunplugged.org/)
    * La forma de pensamiento es lo importante: Pensamiento Algoritmico.
@@ -126,7 +128,7 @@ Sabemos que en Tenerife se encuentra el segundo superordenador de España, el Te
   * Trabajo remoto: Papalardo, Raimon Grau, etc. 
   * Aplicaciones Web 
   * Aplicaciones para smart phones
-  * Los consumidores de servicios informáticos mas importanes son el Gobierno y las Adminsitraciones, las cuales normalmente externalizan sus necesidades de manera que son empresas privadas externas las que proveen los servicios que las diferentes administraciones demandan. 
+  * Los consumidores de servicios informáticos mas importanes son el Gobierno y las Administraciones, las cuales normalmente externalizan sus necesidades de manera que son empresas privadas externas las que proveen los servicios que las diferentes administraciones demandan. 
   * Empresas como ATOS, INDRA programadores en desarrollo de proyectos: ganan los concursos de las administraciones del estado
   * En las administraciones suelen trabajar equipos mas pequeños que se encargan entre otras cosas del control de los servicios y proyectos realizados por las empresas informáticas
   * Otras son las empresas privadas; no hay que olvidar aquí al turismo
@@ -154,6 +156,7 @@ Sabemos que en Tenerife se encuentra el segundo superordenador de España, el Te
    * Nota mínima 
 
 * ¿Se imparte alguna materia del grado en inglés?
+   * El inglés (lectura y comprensión) es básico en estos estudios
    * Asignaturas de Inglés
    * Un porcentaje de las Asignaturas de Itinerario
    * Parte de la exposición Trabajo fin de Grado
